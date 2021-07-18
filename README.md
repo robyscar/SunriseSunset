@@ -97,3 +97,20 @@ History
 
 License
 This article, along with any associated source code and files, is licensed under A Public Domain dedication
+
+
+
+
+
+
+https://github.com/bp2008/DahuaSunriseSunset
+
+https://stackoverflow.com/questions/2056555/c-sharp-sunrise-sunset-with-latitude-longitude
+
+NOAA Solar Calculator
+https://gml.noaa.gov/grad/solcalc/
+https://gml.noaa.gov/grad/solcalc/main.js
+
+
+https://en.wikipedia.org/wiki/Sunrise_equation#Complete_calculation_on_Earth
+https://en.wikipedia.org/wiki/Hour_angle

@@ -114,3 +114,6 @@ https://gml.noaa.gov/grad/solcalc/main.js
 
 https://en.wikipedia.org/wiki/Sunrise_equation#Complete_calculation_on_Earth
 https://en.wikipedia.org/wiki/Hour_angle
+
+https://gml.noaa.gov/grad/solcalc/calcdetails.html
+
